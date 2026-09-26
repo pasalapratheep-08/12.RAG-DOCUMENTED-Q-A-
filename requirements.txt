@@ -1,0 +1,10 @@
+groq
+chromadb
+pypdf
+python-docx
+fastembed
+numpy
+python-dotenv
+ipywidgets
+streamlit
+rank-bm25
