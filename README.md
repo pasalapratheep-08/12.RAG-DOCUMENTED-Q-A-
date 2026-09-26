@@ -412,7 +412,7 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 
 **Your Name** — [Pasala Pratheep](https://github.com/your-handle)
 
-Project link: [https://github.com/your-username/rag-document-qa](https://github.com/your-username/rag-document-qa)
+Project link: [https://github.com/your-username/rag-document-qa]([https://github.com/your-username/rag-document-qa](https://github.com/pasalapratheep-08/12.RAG-DOCUMENTED-Q-A-))
 
 ---
 
